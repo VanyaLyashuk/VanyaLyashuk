@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Ivan Lyashuk</h1>
 <h3>I’m a Front-end Developer with 4+ years of experience in creating responsive, high-quality websites, specializing in HTML/CSS, JavaScript, React.js, and TypeScript. Over the past year, I’ve focused on advancing my skills in React and TypeScript to build scalable, functional applications. My background includes pixel-perfect layouts, code optimization, cross-browser compatibility, and collaborating closely with backend, QA, and marketing teams. I prioritize performance, clean code, and user-friendly experiences across all devices. My goal is to keep growing as a developer and work on impactful projects that combine design and functionality. Let’s connect and bring engaging digital experiences to life together!</h3>
 
-- 🔭 I’m currently working on [Crypto Pulse](https://ccrypto-pulse.netlify.app/)
-
-- 🌱 I’m currently learning **TypeScript, React.js, Next.js, Node.js**
-
-- 📫 How to reach me **ivan129522@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
